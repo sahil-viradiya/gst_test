@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "603832037891",
+    "firebase_url": "https://gstverify-89d82-default-rtdb.firebaseio.com",
+    "project_id": "gstverify-89d82",
+    "storage_bucket": "gstverify-89d82.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:603832037891:android:a4dd04fd6563a84d151436",
+        "android_client_info": {
+          "package_name": "com.example.gst_verify"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhm2IiiB8j_lfhhkI_t11pU4-KE2YBN_Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
